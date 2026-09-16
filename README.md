@@ -8,11 +8,11 @@ El proyecto utiliza componentes reutilizables, rutas dinámicas y una fuente de 
 
 ### Catálogo de productos
 
-![Catálogo de productos](screenshots/catalogo.png)
+![Catálogo de productos](screenshots/3.png)
 
 ### Detalle de producto
 
-![Detalle de producto](screenshots/detalle.png)
+![Detalle de producto](screenshots/2.png)
 
 > Las capturas muestran la interfaz del proyecto tal y como fue desarrollada durante el examen.
 
